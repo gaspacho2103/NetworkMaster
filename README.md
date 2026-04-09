@@ -62,20 +62,20 @@ cd NetworkMaster
 </p><br />
 Выполните скрипт netmaster.sql — выполните все незакомментированные запросы. <br /><br />
 
-<p align="center"><img width="782" height="416" alt="image" src="https://github.com/user-attachments/assets/1f764cbc-2176-41b7-bdd9-3faa4ea6762d" />
+<p align="center"><img width="1078" height="707" alt="image" src="https://github.com/user-attachments/assets/311d36bc-c17d-4889-93e5-0786dc4768db" />
 </p><br />
 <b>Шаг 3: Connection (PHP)</b><br />
 Откройте NetworkMaster/server/config.php и укажите в host IP‑адрес вашего сервера с базой данных и название самой БД. <br /><br />
 
-<p align="center"> <img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/63210da3-31d2-4ccc-b667-732d38d434d3" />
+<p align="center"> <img width="782" height="416" alt="image" src="https://github.com/user-attachments/assets/1f764cbc-2176-41b7-bdd9-3faa4ea6762d" />
  </p><br /><br />
 ✅ Готово! Проект успешно запущен.<br /><br />
 
-<p align="center"> <img width="1920" height="1080" alt="final" src="" /> </p><br /><br />
+<p align="center"> <img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/63210da3-31d2-4ccc-b667-732d38d434d3" /> </p><br /><br />
 <hr>
 <h3>🧭 Руководство пользователя</h3><br />
 <h5>🔐 В данном видеоролике продемонстрированы основные возможности приложения</h5><br />
-<video src="https://drive.google.com/file/d/1Ndnnwi1WIFEaN95wz_JHwDAftPQ0as1r/view?usp=drive_link"></video>
+<iframe width="560" height="315" src="https://drive.google.com/file/d/1Ndnnwi1WIFEaN95wz_JHwDAftPQ0as1r/view?usp=drive_link" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
 <h3>🎯 Для чего этот проект?</h3><br />
 Данный проект является моей курсовой работой, вдохновленной такими продуктами как Cisco Packet Tracer и Boson NetSim<br />
