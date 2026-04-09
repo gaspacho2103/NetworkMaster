@@ -74,7 +74,7 @@ cd NetworkMaster
 <p align="center"> <img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/63210da3-31d2-4ccc-b667-732d38d434d3" /> </p><br /><br />
 <hr>
 <h3>🧭 Руководство пользователя</h3><br />
-<h5>🔐 В данном видеоролике продемонстрированы основные возможности приложения</h5><br />
+<h5>🔐 <a href="http://drive.google.com/file/d/1Ndnnwi1WIFEaN95wz_JHwDAftPQ0as1r/view">Быстрый гайд -> http://drive.google.com/file/d/1Ndnnwi1WIFEaN95wz_JHwDAftPQ0as1r/view</a></h5><br />
 
 <hr>
 <h3>🎯 Для чего этот проект?</h3><br />
