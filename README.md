@@ -75,7 +75,7 @@ cd NetworkMaster
 <hr>
 <h3>🧭 Руководство пользователя</h3><br />
 <h5>🔐 В данном видеоролике продемонстрированы основные возможности приложения</h5><br />
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1Ndnnwi1WIFEaN95wz_JHwDAftPQ0as1r/view?usp=drive_link" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <hr>
 <h3>🎯 Для чего этот проект?</h3><br />
 Данный проект является моей курсовой работой, вдохновленной такими продуктами как Cisco Packet Tracer и Boson NetSim<br />
