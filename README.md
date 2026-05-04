@@ -60,12 +60,12 @@ cd NetworkMaster
 
 <p align="center"><img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/be3077c9-9ce9-443f-8e43-438acbb4958b" />
 </p><br />
-Выполните скрипт netmaster.sql — выполните все незакомментированные запросы. <br /><br />
+Выполните скрипт <code>netmaster.sql</code> — выполните все незакомментированные запросы. <br /><br />
 
 <p align="center"><img width="1078" height="707" alt="image" src="https://github.com/user-attachments/assets/311d36bc-c17d-4889-93e5-0786dc4768db" />
 </p><br />
 <b>Шаг 3: Connection (PHP)</b><br />
-Откройте NetworkMaster/server/config.php и укажите в host IP‑адрес вашего сервера с базой данных и название самой БД. <br /><br />
+Откройте <code>NetworkMaster/server/config.php</code> и укажите в <code>host</code> IP‑адрес вашего сервера с базой данных и название самой БД. <br /><br />
 
 <p align="center"> <img width="782" height="416" alt="image" src="https://github.com/user-attachments/assets/1f764cbc-2176-41b7-bdd9-3faa4ea6762d" />
  </p><br /><br />
@@ -74,7 +74,7 @@ cd NetworkMaster
 <p align="center"> <img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/63210da3-31d2-4ccc-b667-732d38d434d3" /> </p><br /><br />
 <hr>
 <h3>🧭 Руководство пользователя</h3><br />
-<h5>🔐 <a href="http://drive.google.com/file/d/1Ndnnwi1WIFEaN95wz_JHwDAftPQ0as1r/view">Быстрый гайд -> http://drive.google.com/file/d/1Ndnnwi1WIFEaN95wz_JHwDAftPQ0as1r/view</a></h5><br />
+<h5>🔗 <a href="http://drive.google.com/file/d/1Ndnnwi1WIFEaN95wz_JHwDAftPQ0as1r/view">Быстрый гайд -> http://drive.google.com/file/d/1Ndnnwi1WIFEaN95wz_JHwDAftPQ0as1r/view</a></h5><br />
 
 <hr>
 <h3>🎯 Для чего этот проект?</h3><br />
